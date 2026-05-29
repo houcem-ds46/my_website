@@ -13,4 +13,3 @@ Features:
 - Good looking typography based on shadCnUI
 - Add a plot made with d3.js
 - Allow ts errors in app
-test
